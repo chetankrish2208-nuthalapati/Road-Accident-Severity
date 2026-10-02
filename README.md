@@ -44,7 +44,7 @@ The following visualizations were created:
 ![Weather vs Severity](weather_vs_severity.png)
 ![Light vs Severity](light_vs_severity.png)
 ![Cause vs Severity](cause_vs_severity.png)
-![Feature Importance](feature_importance.png)
+
 
 ## Machine Learning
 
@@ -84,7 +84,7 @@ Therefore, accuracy alone should not be used to judge the model's performance.
 
 ## Feature Importance
 
-![Feature Importance](Images/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 The Decision Tree identified the following features among the most influential:
 
