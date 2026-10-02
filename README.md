@@ -40,19 +40,11 @@ The following visualizations were created:
 
 ### Casualty Severity Distribution
 
-![Severity Distribution](Images/severity_distribution.png)
-
-### Weather Conditions vs Casualty Severity
-
-![Weather vs Severity](Images/weather_vs_severity.png)
-
-### Light Conditions vs Casualty Severity
-
-![Light vs Severity](Images/light_vs_severity.png)
-
-### Cause of Accident vs Casualty Severity
-
-![Cause vs Severity](Images/cause_vs_severity.png)
+![Severity Distribution](severity_distribution.png)
+![Weather vs Severity](weather_vs_severity.png)
+![Light vs Severity](light_vs_severity.png)
+![Cause vs Severity](cause_vs_severity.png)
+![Feature Importance](feature_importance.png)
 
 ## Machine Learning
 
